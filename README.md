@@ -1,4 +1,5 @@
 # cafe_uiux
+음료 만들기 프로그램
 프로세싱 설치
 ![스크린샷 2024-02-27 144854](https://github.com/mok010/cafe_uiux/assets/76732607/1efbb869-9551-4d80-9ac1-f8b5b7c13ecd)
 ![스크린샷 2024-02-27 144907](https://github.com/mok010/cafe_uiux/assets/76732607/8970c418-d60b-402a-ac7a-113bbc7c0f5c)
