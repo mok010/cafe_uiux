@@ -18,8 +18,11 @@
 ![스크린샷 2024-02-27 144854](https://github.com/mok010/cafe_uiux/assets/76732607/1efbb869-9551-4d80-9ac1-f8b5b7c13ecd)
 
 
-#### 선택한 옵션의 이미지가 확대됨
+#### 선택한 옵션의 이미지가 확대됨 (음료도 선택한 대로 바뀜)
 ![스크린샷 2024-02-27 144907](https://github.com/mok010/cafe_uiux/assets/76732607/8970c418-d60b-402a-ac7a-113bbc7c0f5c)
+
+
+#### 시럽은 선택시 방울 모양으로 바뀜 (음료도 선택한 대로 바뀜)
 ![스크린샷 2024-02-27 144924](https://github.com/mok010/cafe_uiux/assets/76732607/152a7cdd-3db4-4148-926d-2f72bc0a0287)
 ![스크린샷 2024-02-27 144951](https://github.com/mok010/cafe_uiux/assets/76732607/e24c696c-33d8-41f1-9b25-4f7a84198be6)
 ![스크린샷 2024-02-27 145004](https://github.com/mok010/cafe_uiux/assets/76732607/564b00d0-bf15-4aaf-8571-4c18c0977ad1)
