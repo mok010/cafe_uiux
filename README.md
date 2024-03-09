@@ -13,9 +13,12 @@
 #### 옵션이 선택됨과 동시에 아이콘이 확대되거나 바뀌도록 함
 
 
-
+#### 위의 make your recept는 좌우로 움직이는 모션
 
 ![스크린샷 2024-02-27 144854](https://github.com/mok010/cafe_uiux/assets/76732607/1efbb869-9551-4d80-9ac1-f8b5b7c13ecd)
+
+
+#### 선택한 옵션의 이미지가 확대됨
 ![스크린샷 2024-02-27 144907](https://github.com/mok010/cafe_uiux/assets/76732607/8970c418-d60b-402a-ac7a-113bbc7c0f5c)
 ![스크린샷 2024-02-27 144924](https://github.com/mok010/cafe_uiux/assets/76732607/152a7cdd-3db4-4148-926d-2f72bc0a0287)
 ![스크린샷 2024-02-27 144951](https://github.com/mok010/cafe_uiux/assets/76732607/e24c696c-33d8-41f1-9b25-4f7a84198be6)
