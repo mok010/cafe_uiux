@@ -25,6 +25,9 @@
 #### 시럽은 선택시 방울 모양으로 바뀜 (음료도 선택한 대로 바뀜)
 ![스크린샷 2024-02-27 144924](https://github.com/mok010/cafe_uiux/assets/76732607/152a7cdd-3db4-4148-926d-2f72bc0a0287)
 ![스크린샷 2024-02-27 144951](https://github.com/mok010/cafe_uiux/assets/76732607/e24c696c-33d8-41f1-9b25-4f7a84198be6)
+
+
+#### 여러가지 토핑은 선택시 컵의 위에서 부터 떨어져 내려옴 (음료에 반영)
 ![스크린샷 2024-02-27 145004](https://github.com/mok010/cafe_uiux/assets/76732607/564b00d0-bf15-4aaf-8571-4c18c0977ad1)
 ![스크린샷 2024-02-27 145020](https://github.com/mok010/cafe_uiux/assets/76732607/15658ed9-8782-4fcd-86af-18f4410270f5)
 ![스크린샷 2024-02-27 145034](https://github.com/mok010/cafe_uiux/assets/76732607/ff4166ec-9212-4773-b0ab-8a1be98f5ee9)
