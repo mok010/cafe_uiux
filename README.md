@@ -13,7 +13,7 @@
 #### 옵션이 선택됨과 동시에 아이콘이 확대되거나 바뀌도록 함
 
 
-#### 위의 make your recept는 좌우로 움직이는 모션
+#### 위의 make your recipe는 좌우로 움직이는 모션
 
 ![스크린샷 2024-02-27 144854](https://github.com/mok010/cafe_uiux/assets/76732607/1efbb869-9551-4d80-9ac1-f8b5b7c13ecd)
 
